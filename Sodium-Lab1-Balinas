@@ -1,0 +1,36 @@
+<DOCTYPE html>
+<html>
+  <head>
+      <title>Block Blast</title>
+
+      <meta charset="UTF-8">
+      <meta name="author" content="Keith Balinas">
+      <meta name="keywords" content="HTML, CSS, Javascript">
+      <meta name="revised" content="21-08-2024">
+
+      <link rel="icon" href="icon.png" type="image/gif">
+  </head>
+  <body>
+      <div>
+		    <h1>Block Blast</h1>
+		
+		    <p>Block Blast is an offline game. It is similar to Tetris. The game has two mini games. In the first mini game, the goal is 
+		    to eliminate the blocks either vertically or horizontally to get a high score. The game will first give you three random blocks 
+		    which you will put in the 8x8 grid. The second mini game has the same goal as the first but as a challenge,
+		    find out the other details by yourself. Enjoy playing!</p>
+	
+	    </div>
+      <span>
+			  <h3>5 reasons why this game is my favorite:</h3>
+			    <ul>
+				    <li>The game is very fun!</li>
+				    <li>It is very addicting!</li>
+				    <li>It's an offline game meaning I don't need an internet connection.</li>
+				    <li>It makes me think critically because I have to calculate where I should put the blocks.</li>
+				    <li>I like the thrill because I always want to beat my current record.</li>
+		    	</ul>
+	  	</span>
+      <p>Copyright &copy; Keith Margaret B. Balinas 9-Sodium. All rights reserved.</p>
+
+  </body>
+</html>
